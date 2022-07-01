@@ -142,7 +142,7 @@ background-color: #0b1d1c;
     transition: .5s;
 }
 
-.lin_through{
+.line_through{
     text-decoration: line-through;
     opacity: 0.7;
     transition: .3s;
